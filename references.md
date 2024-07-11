@@ -1,3 +1,3 @@
 # References
 
-* octonaut 1 :D
+* octocat 1 😈
